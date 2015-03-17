@@ -1,0 +1,62 @@
+body{
+	font-family: 'Oswald', sans-serif;
+}
+
+#carouselMainDiv{
+	padding: 0px;
+}
+
+#team h1{
+	font-size: 24px;
+	text-align: center;
+	margin: 0px;
+	color: #fff;
+}
+
+#team{
+	background-color: #000;
+	padding-top: 25px;
+}
+
+#teamRow{
+	padding-top: 25px;
+}
+
+#blog h1{
+	font-size: 24px;
+	text-align: center;
+	margin: 0px;
+	color: #fff;
+}
+#blog h4{
+	text-align: center;
+	}
+
+#blog{
+	background-color: #000;
+	padding-top: 25px;
+}
+
+#contactus h1{
+	font-size: 24px;
+	text-align: center;
+	margin: 0px;
+	color: #fff;
+}
+
+#contactus{
+	background-color: #000;
+	padding-top: 25px;
+}
+
+#store h1{
+	font-size: 24px;
+	text-align: center;
+	margin: 0px;
+	color: #fff;
+}
+
+#store{
+	background-color: #000;
+	padding-top: 25px;
+}
