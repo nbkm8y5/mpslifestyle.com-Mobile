@@ -1,15 +1,15 @@
-#logo{
-	position: relative;
-	bottom: 13px;
+#logo {
+    position: relative;
+    bottom: 13px;
 }
 
-.navbar{
-	margin-bottom: 1px;
-	background-color: #000;
-	color: #fff;
-	border: 0px;
+.navbar {
+    margin-bottom: 1px;
+    background-color: #000;
+    color: #fff;
+    border: 0px;
 }
 
-.navList a{
+.navList a {
     transition: ease 0.25s;
 }
